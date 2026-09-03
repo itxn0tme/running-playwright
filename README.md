@@ -1,4 +1,4 @@
-# running-playwright-beta
+# running-playwright
 ```
 manual reading documentation
 ```
